@@ -1,6 +1,6 @@
 /*
  * Project: NameThatCelebrity.java
- * Description: Asks contestants to guess a name without seeing first and last name
+ * Description: Asks contestants to guess a name without seeing first and last letters
  * Author: Juyoung Lee
  * Date: Sept 7, 2015
  */
